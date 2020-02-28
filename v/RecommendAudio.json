@@ -1,173 +1,58 @@
 [
   {
-    "id": 1,
-    "name": "10 M Guided",
-    "url": "https://drive.google.com/open?id=1NJCi6p-ngtigvxc71JT2MZ7Ts1hWnypI",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/1.jpeg",
-    "description": "Mindfulness is a natural quality that we all have. It’s available to us in every moment if we take the time to appreciate it. When we practice mindfulness, we’re practicing the art of creating space for ourselves—space to think, space to breathe, space between ourselves and our reactions. Becoming more aware of where you are and what you’re doing, without becoming overly reactive or overwhelmed by what’s going on around you.",
-    "time": 10,
-    "level": 1,
-    "like": 0
-  },
-  {
-    "id": 2,
-    "name": "10M Positive Life",
-    "url": "https://drive.google.com/open?id=1CTr74ixWuSqdLRVcfT3mMS66euXhv3CQ",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/2.jpg",
-    "description": "Positive thinking is an optimistic state of mind, which sees the bright side of life. A positive frame of mind brings more harmony and happiness, improves relationships, and attracts success into your life. You will find here many articles, with advice and tips, for becoming positive in your thoughts, attitude and actions.",
-    "time": 10,
-    "level": 3,
-    "like": 0
-  },
-  {
-    "id": 3,
-    "name": "All It Take Is 10M",
-    "url": "https://drive.google.com/open?id=1mawSKk0kE7SbDtqtsa1a9JauQ6aIcJiW",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/3.jpg",
-    "description": "Intention refers to the underlying motivation for everything we think, say, or do. From the brain’s perspective, when we act in unintended ways, there’s a disconnect between the faster, unconscious impulses of the lower brain centers and the slower, conscious, wiser abilities of the higher centers like the pre-frontal cortex.  Given that the unconscious brain is in charge of most of our decision-making and behaviors, this practice can help you align your conscious thinking with a primal emotional drive that the lower centers care about. Beyond safety, these include motivations like reward, connection, purpose, self-identity and core values.",
-    "time": 10,
-    "level": 2,
-    "like": 0
-  },
-  {
-    "id": 4,
-    "name": "How To Meditate For Beginners",
-    "url": "https://drive.google.com/open?id=1WiAQh0wYwRPaAojXBGrQLWT8a8GbnMAM",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/4.jpg",
-    "description": "Let's assume you've never heard of mindfulness, don't know what it is, don't understand why we need to practice it in our lives, let's explore this topic together in this video. I will discuss the heart of mindfulness practice and how to cultivate mindfulness in daily life. I will also briefly describe the application of mindfulness in contemporary clinical practice - how to deal with stress, pain and disease, and how to use mindfulness decompression to help patients recover their health. I will also talk about some exciting new areas of scientific research. These studies show that mindfulness training seems to have many other effects. It does change the structure and function of the brain. These data show the significant meaning of the between our thoughts and emotions (especially those that are most likely to trigger our subconscious reactions).",
-    "time": 5,
-    "level": 1,
-    "like": 0
-  },
-  {
-    "id": 5,
-    "name": "How Mind Transform Us",
-    "url": "https://drive.google.com/open?id=1Bw7kJrOOooq9HOx5khLW0TySaytRxjg4",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/5.jpg",
-    "description": "Practicing mindfulness in person will bring endless opportunities to help you build a closer connection with your heart, let you enter and develop the resources deep inside, realize learning, growth, healing, or even transform your understanding about who you are, how to have a more intelligent life, a better state, a deeper understanding of the world and greater happiness.",
-    "time": 13,
-    "level": 2,
-    "like": 0
-  },
-{
-    "id": 6,
-    "name": "The power of mindfulness what you practice",
-    "url": "https://drive.google.com/open?id=1A5IJALZ6Vfx7iI2VN4zoT5_KZ7AufTdK",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/6.jpg",
-    "description": "How do we change? In this pioneering talk, Dr. Shauna Shapiro draws on modern neuroscience and ancient wisdom to demonstrate how mindfulness can help us make positive changes in our brains and our lives. ",
-    "time": 13,
-    "level": 1,
-    "like": 0
-  },
-{
-    "id": 7,
-    "name": "Why Mindfulness is a superpower",
-    "url": "https://drive.google.com/open?id=163sFuZZW940TqiPuqi2kT7eSCLM9hvjK",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/7.jpg",
-    "description": "Practicing mindfulness is one of the single most powerful things you can do for your wellbeing. Want to give it a try? Visit http://www.happify.com for guided meditations and other mindfulness-building activities designed by experts. ",
-    "time": 2,
-    "level": 1,
-    "like": 0
-  },
-{
-    "id": 8,
-    "name": "Self Translator mation Through Mindfulness",
-    "url": "https://drive.google.com/open?id=1yc_xFZRCKc7PL-Bfi6D1uHfbVW16rsYf",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/7.jpg",
-    "description": "How is the Self represented in the brain and how is it sculpted through our everyday moment-to-moment perceptions, emotions, and thoughts? Cognitive Neuroscientist, David Vago demonstrates that a systematic form of mental training involving meditation and mindful awareness has the potential to transform our self and our mental habits in a positive way. Learn more about how every moment is an opportunity to change our brain and strongly influence our health & longevity at both conscious and non-conscious levels.",
-    "time": 19,
-    "level": 3,
-    "like": 0
-  },
-{
-    "id": 9,
-    "name": "Mindfulness Meditation for Anxiety Depression",
-    "url": "https://drive.google.com/open?id=1DFXSd2i13Y9zuTsox57wMHxHeOne8VN_",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/9.jpg",
-    "description": "Meditation to Treat Depression. Part of the series: Meditation Techniques. Meditation practice can help relieve or treat depression when you imagine your inhalations and exhalations as your heart breathing, giving you a new sense of stability and compassion. See how it's done in this free video on meditation techniques. ",
-    "time": 7,
-    "level": 1,
-    "like": 0
-  },
-{
-    "id": 10,
-    "name": "30 seconds to mindfulness",
-    "url": "https://drive.google.com/open?id=1vMh-c1BFsooJqZcSqyR2ZypW8U62OlUC",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/10.jpg",
-    "description": "Can you go from feeling stressed to calm in under 30 seconds? Phil Boissiere shares his simple technique to bring mindfulness to your busy life, any time, anywhere.    Phil Boissiere is an adult ADHD and couples counseling specialist based in the San Francisco Bay Area. His goal-focused approach and use of evidence based practices, such as Cognitive Behavioral Therapy (CBT) and skills training form an empowering therapeutic process. Phil has pursued expertise in brain science, advanced training in the Neurosequential Model of Therapeutics (NMT), and adult ADHD specific training at the Massachusetts General Hospital Psychiatry Academy.",
-    "time": 9,
-    "level": 2,
-    "like": 0
-  },
-{
-    "id": 11,
-    "name": "Everyday mindfulness up life",
-    "url": "https://drive.google.com/open?id=19Twp_qZXpZT9R40grXfAnI_MImh2zfYa",
+    "id":2,
+    "vid": 11,
+    "name":"Everyday mindfulness up life",
+    "url": "https://drive.google.com/uc?export=download&id=19Twp_qZXpZT9R40grXfAnI_MImh2zfYa",
     "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/11.jpg",
-    "description": "This video explains what everyday mindfulness is, and how being aware of what is going on around you and inside of you can help make life more enjoyable and less stressful.",
+"description": "This video explains what everyday mindfulness is, and how being aware of what is going on around you and inside of you can help make life more enjoyable and less stressful.",
     "time": 5,
     "level": 1,
-  "like": 0
+    "like": 1
   },
-{
-    "id": 12,
-    "name": "10 Minute Mindfulness Meditation",
-    "url": "https://drive.google.com/open?id=1FEh4Xa1R-LHCriwYPa4zZBTKNl1ZDXm0",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/12.jpg",
-    "description": "Tamara Levitt guides this 10 minute Daily Calm mindfulness meditation to powerfully restore and re-connect with the present.",
-    "time": 10,
-    "level": 2,
-  "like": 0
-  },
-{
-    "id": 13,
-    "name": "mindfulness animated in 3 minutes",
-    "url": "https://drive.google.com/open?id=1MPXYTMAzGewuv4E7TJcvCb_T21mxp4GH",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/13.jpg",
-    "description": "You too can learn the secrets of Mindfulness Meditation in this short fun video.",
-    "time": 3,
-    "level": 3,
-  "like": 0
-  },
-{
-    "id": 14,
-    "name": "how mindfulness meditation redefines pain",
-    "url": "https://drive.google.com/open?id=1r-F1pzj-bl0YzT69emuuxSCekSa1Fiy8",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/14.jpg",
-    "description": "This talk was given at a local TEDx event, produced independently of the TED Conferences. Kasim teaches and presents on the use of mindfulness for creating healing, transformation, and peace. He is passionate about enhancing people’s sense of joy, authenticity, and presence. Kasim also teaches and speaks about the use of laughter and laughter yoga for improving wellness.",
-    "time": 16,
-    "level": 3,
-  "like": 0
-  },
-{
-    "id": 15,
-    "name": "13 ways to be more mindful",
-    "url": "https://drive.google.com/open?id=1Sw8gWy1WD7km3v7PRZrvs9FtCw55Yfw8",
-    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/15.jpg",
-    "description": "Sharing my journey of mindfulness, spiritualism, and self-awareness. The first 100 people to visit my link will receive unlimited access to Blinkist for 1 week to try it out. Plus 25% off if you want full membership. ",
-    "time": 11,
-    "level": 2,
-  "like": 0
-  },
-{
-    "id": 16,
-    "name": "don't try to be mindful ",
-    "url": "https://drive.google.com/open?id=1fjm508O4k8_moNETFknuPF_l2htlV5A3",
+  {
+    "id":3,
+    "vid": 6,
+    "name":"do not try to be mindful",
+    "url": "https://drive.google.com/uc?export=download&id=1fjm508O4k8_moNETFknuPF_l2htlV5A3",
     "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/16.jpg",
     "description": "Mindful Awareness Trainer Daron Larson says although mindfulness has been shown to help decrease stress and increase contentment, many who try it give up convinced they’re doing it wrong. Drawing from his daily practice since 2002, he helps people break through common ",
     "time": 12,
     "level": 1,
-  "like": 0
+    "like": 1
   },
-{
-    "id": 17,
-    "name": "why aren't we teaching you mindfulness ",
-    "url": "https://drive.google.com/open?id=1m5dWZqxAll2W5khL57qkxR6DsuhZ06vv",
+  {
+    "id":4,
+    "vid": 17,
+    "name":"why we teaching you mindfulness ",
+    "url": "https://drive.google.com/uc?export=download&id=1m5dWZqxAll2W5khL57qkxR6DsuhZ06vv",
     "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/17.jpg",
     "description": "In this powerful talk, an instructor bringing mindfulness to shelters shares her research into how mindfulness can set us up for success and break cycles of transgenerational trauma.",
     "time": 14,
     "level": 1,
-  "like": 0
+    "like": 1
+  },
+  {
+    "id": 5,
+    "vid": 2,
+    "name":"10M Positive Life",
+    "vurl": "https://drive.google.com/uc?export=download&id=1CTr74ixWuSqdLRVcfT3mMS66euXhv3CQ",
+    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/2.jpg",
+    "description": "Positive thinking is an optimistic state of mind, which sees the bright side of life. A positive frame of mind brings more harmony and happiness, improves relationships, and attracts success into your life. You will find here many articles, with advice and tips, for becoming positive in your thoughts, attitude and actions.",
+    "time":  10,
+    "level": 3,
+    "like": 1
+  },
+  {
+    "id": 6,
+    "vid":  2 ,
+    "name":"30 seconds to mindfulness",
+    "url": "https://drive.google.com/uc?export=download&id=1CTr74ixWuSqdLRVcfT3mMS66euXhv3CQ",
+    "urlimg": "https://raw.githubusercontent.com/isaacmmmpi/mindfulnessVideo/master/p/3.jpg",
+    "description": "Positive thinking is an optimistic state of mind, which sees the bright side of life. A positive frame of mind brings more harmony and happiness, improves relationships, and attracts success into your life. You will find here many articles, with advice and tips, for becoming positive in your thoughts, attitude and actions.",
+    "time": 10,
+    "level": 3,
+    "like": 1
   }
-
 ]
+
